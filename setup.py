@@ -14,7 +14,7 @@ def find_dev_required():
 setup(
     name="vedro-jj",
     version="0.2.0",
-    description="",
+    description="Vedro + jj",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     author="Nikita Tsvetkov",
