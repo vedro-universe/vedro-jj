@@ -77,5 +77,5 @@ class Scenario(vedro.Scenario):
 ```
 
 ```shell
-$ vedro run -vv
+$ vedro run
 ```
